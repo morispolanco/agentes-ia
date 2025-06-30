@@ -1,0 +1,5 @@
+{
+  "name": "Plataforma de Agentes Inteligentes",
+  "description": "Una aplicación que utiliza un equipo de agentes de IA para desglosar y ejecutar tareas complejas de forma autónoma, presentando un informe final.",
+  "requestFramePermissions": []
+}
