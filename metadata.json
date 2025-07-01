@@ -1,5 +1,6 @@
 {
   "name": "Plataforma de Agentes Inteligentes",
-  "description": "Una aplicación que utiliza un equipo de agentes de IA para desglosar y ejecutar tareas complejas de forma autónoma, presentando un informe final.",
-  "requestFramePermissions": []
+  "description": "Una aplicación web que utiliza un sistema de agentes de IA para descomponer y ejecutar tareas complejas especificadas por el usuario. El progreso se muestra en tiempo real, con cada agente completando su parte de la tarea.",
+  "requestFramePermissions": [],
+  "prompt": ""
 }
